@@ -1,6 +1,6 @@
 # System-design_Design-pattern
 
-Summarization of a 10page Software design and design pattern by ArjanCodes as requested from OsMaxin
+Summarization of a 10page Software design and design pattern by ArjanCodes as requested from OsMaxin Developers
 
 Before I proceed to the summarization of what a software design is, I'll want us to talk about what a software design is before pointing out some key point that make up the design pattern...
 
